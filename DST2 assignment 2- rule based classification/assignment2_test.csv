@@ -1,0 +1,11 @@
+refund,marital_status,income_above_80k,cheat
+no,single,yes,no
+no,single,yes,no
+no,married,yes,no
+no,divorced,no,no
+no,married,yes,no
+no,single,yes,no
+yes,single,yes,no
+no,single,yes,yes
+yes,married,yes,yes
+yes,single,no,yes
